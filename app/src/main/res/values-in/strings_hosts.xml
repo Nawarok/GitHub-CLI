@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hosts_title">Sumber host</string>
+    <!-- List -->
+    <string name="hosts_not_available">Tidak tersedia</string>
+    <!-- Edition dialog -->
+    <string name="hosts_add_dialog_title">Tambah sumber</string>
+    <string name="hosts_edit_dialog_title">Ubah sumber</string>
+    <string name="hosts_dialog_url">URL: (a https:// atau file:// sumber)</string>
+    <string name="hosts_dialog_url_hint">Alamat sumber daftar</string>
+</resources>
